@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Surya</string>
+    <string name="msg_data"><![CDATA[Enter & value you wish to add to your card]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_more_products"><![CDATA[< Add more Products]]></string>
+    <string name="back_to_cart_review"><![CDATA[< Back to Cart review]]></string>
+</resources>
